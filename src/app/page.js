@@ -8,13 +8,13 @@ export default function Home() {
         className="bg-white p-2 rounded-lg shadow-md hover:scale-105 transition-transform"
         href="/contact"
       >
-        Go to Contact
+        Mahumok
       </Link>
       <Link
         className="bg-white p-2 rounded-lg shadow-md hover:scale-105 transition-transform"
         href="/profile"
       >
-        Go to Profile
+        JohnLloyd
       </Link>
     </div>
   );
